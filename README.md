@@ -138,8 +138,8 @@ The following steps were performed to clean and prepare the data before visualiz
 
 ## 📸 Dashboard Preview
 
-*(Add your image here)*
-![Sales Dashboard Preview](./Sales_Dashboard_Screenshot.png)
+*<img width="1113" height="628" alt="image" src="https://github.com/user-attachments/assets/692cc548-19a9-4f82-bc72-f59f0c6a53a2" />
+
 
 ---
 
